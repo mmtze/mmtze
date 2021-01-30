@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá, sou Manuel! :v:
 
-<!--
-**mmtze/mmtze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente trabalho como analista de dados. Gosto muito de filmes, séries e animes, além de ler e aprender.
 
-Here are some ideas to get you started:
+Com o objetivo de crescer cada vez mais, compartilho por aqui meus projetos e o que venho aprendendo em programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :dart: Buscando desafios em Engenheria de dados
+- :book: Estudando: Python, Java, SQL e Cloud
+- :mortar_board:  Cursando Análise e desenvolvimento de sistemas
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=mmtze)
+
+### Pode me encontrar por aqui:
+
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/mmtzes)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/manuelmartineze/) 
