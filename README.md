@@ -4,7 +4,7 @@ Atualmente trabalho como analista de dados. Gosto muito de filmes, séries e ani
 
 Com o objetivo de crescer cada vez mais, compartilho por aqui meus projetos e o que venho aprendendo em programação.
 
-- :dart: Buscando desafios em Engenheria de dados
+- :dart: Objetivos: Desafios em Engenheria de dados
 - :book: Estudando: Python, Java, SQL e Cloud
 - :mortar_board:  Cursando Análise e desenvolvimento de sistemas
 
